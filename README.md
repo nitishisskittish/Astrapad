@@ -6,7 +6,7 @@ A 7 key macropad with a rotary encoder, OLED screen, and 16 WS2812B LED’s. Cur
 ---
 - Two Piece 3D Printable Case
 - 128x32 OLED Display
-- EC11 Rotary encoder + a 3D printable knob I got from [*@Chadoom*](https://www.printables.com/model/1250113-various-d19h20-ec11-compatible-encoder-knobs)
+- EC11 Rotary encoder
 - 16 WS2812B RGB LEDs, probably waaayyy too much, but the more the merrier I guess
 - 7 Keys
 
@@ -14,14 +14,19 @@ A 7 key macropad with a rotary encoder, OLED screen, and 16 WS2812B LED’s. Cur
 ---
 The case is held together by 4 M3 Bolts and heatset inserts, 1 in each corner. The bottom half of the case has a built in tilt. Originally I designed this with see-through plastic “windows” in mind, but as of now those windows have been replaced with direct holes looking into the PCB. Maybe I’ll add them later.
 
-![[Assembled_Case.png]]
+<img src=Images/Case_Image.png alt="Case" width="500"/>
 
 ### **PCB**
 ---
 I made my PCB in KiCad, and I got my silkscreen arts from the [Zenless Zone Zero Fandom Sticker Page](https://zenless-zone-zero.fandom.com/wiki/Stickers)
 
-- Schematic: ![[Pasted image 20251222131045.png]]
-- PCB:![[Pasted image 20251222131150.png]]My favorite part of the whole project tbh, made me feel very smart. Also if your interested the numbers at the very bottom are binary, although it doesn’t spell out anything that interesting
+- Schematic:
+
+  <img src=Images/Schematic.png alt="Schematic" width="500"/>
+- Schematic:
+
+  <img src=Images/PCB.png alt="PCB" width="500"/>
+- My favorite part of the whole project tbh, made me feel very smart. Also if your interested the numbers at the very bottom are binary, although it doesn’t spell out anything that interesting
 
 ### **Firmware**
 ---
@@ -30,7 +35,7 @@ Currently Astrapad runs on KMK, but I plan on switching to QMK later because I w
 - The top left and top right keys skips forward or backward respectively in the playback queue
 - The top middle button and bottom 3 buttons act as WASD keys, with the top middle button being the W Key
 - The bottom right button is currently mapped to a custom shortcut I have on my computer that opens Spotify
-I have a list of features I want to add commented in the KMK main.py file if your interested in that
+- I have a list of features I want to add commented in the KMK main.py file if you're interested in that
 ### **BOM**
 ---
 - 1x Seeed XIAO RP2040
@@ -47,6 +52,6 @@ I have a list of features I want to add commented in the KMK main.py file if you
 
 ### **Extra Stuff**
 ---
-The example I’m using to create this README had this section, so I’m adding it too. 
+The example I’m basing this README off of had this section, so I’m adding it too. 
 Thanks a lot to the Blueprint Hackclub slack, I probably wouldn’t have finished this project without their help.
 Ummm yeah, that’s it I guess. 
