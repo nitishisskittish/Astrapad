@@ -676,7 +676,7 @@
 			(uuid "f847af54-b7da-4d55-86b5-f309f522e906")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3D Models/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
+		(model "/run/media/nitish/01DBE56922159C50/Users/akkns/Documents/Coding/astrapad/CAD/3D Models/cherry-mx-switches-mx-1.snapshot.16/MX .STEP"
 			(offset
 				(xyz 0 0 0)
 			)
