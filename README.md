@@ -35,6 +35,7 @@ Currently Astrapad runs on KMK, but I plan on switching to QMK later because I w
 - The top left and top right keys skips forward or backward respectively in the playback queue
 - The top middle button and bottom 3 buttons act as WASD keys, with the top middle button being the W Key
 - The bottom right button is currently mapped to a custom shortcut I have on my computer that opens Spotify
+- The OLED Screen displays the current volume level of whatever device the macropad is currently connected to
 - I have a list of features I want to add commented in the KMK main.py file if you're interested in that
 ### **BOM**
 ---
