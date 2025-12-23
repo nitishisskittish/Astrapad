@@ -26,7 +26,7 @@ I made my PCB in KiCad, and I got my silkscreen arts from the [Zenless Zone Zero
 - Schematic:
 
   <img src=Images/PCB.png alt="PCB" width="500"/>
-- My favorite part of the whole project tbh, made me feel very smart. Also if your interested the numbers at the very bottom are binary, although it doesn’t spell out anything that interesting
+- My favorite part of the whole project tbh, made me feel very smart. Also if you're interested the numbers at the very bottom are binary, although it doesn’t spell out anything that interesting
 
 ### **Firmware**
 ---
