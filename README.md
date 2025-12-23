@@ -18,7 +18,7 @@ The case is held together by 4 M3 Bolts and heatset inserts, 1 in each corner. T
 
 ### **PCB**
 ---
-I made my PCB in KiCad, and I got my silkscreen arts from the [Zenless Zone Zero Fandom Sticker Page](https://zenless-zone-zero.fandom.com/wiki/Stickers)
+I made my PCB in KiCad. I got the bangboo silkscreen arts from the [Zenless Zone Zero Fandom Sticker Page](https://zenless-zone-zero.fandom.com/wiki/Stickers), and the pikachu art from [pixlecheese](https://www.pixilart.com/art/pikachu-thunderbolt-1a236168d6612c3)
 
 - Schematic:
 
